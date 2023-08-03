@@ -30,47 +30,41 @@ document.addEventListener("keypress", function(event) {
 function makeSound(key) {
 
   switch (key) {
-    case "g":
+    case "M":
       var audio = new Audio('sounds/tom-1.mp3');
       audio.play();
       break;
 
-    case "a":
+    case "U":
       var audio = new Audio('sounds/tom-2.mp3');
       audio.play();
       break;
 
-    case "y":
+    case "S":
       var audio = new Audio('sounds/tom-3.mp3');
       audio.play();
       break;
 
-    case "a":
-      var audio = new Audio('sounds/tom-2.mp3');
+    case "I":
+      var audio = new Audio('sounds/tom-4.mp3');
       audio.play();
       break;
 
-    case "t":
+    case "C":
       var audio = new Audio('sounds/snare.mp3');
       audio.play();
       break;
 
-    case "h":
+    case "O":
       var audio = new Audio('sounds/crash.mp3');
       audio.play();
       break;
 
-    case "r":
+    case "N":
       var audio = new Audio('sounds/kick-bass.mp3');
       audio.play();
       break;
-    case "i":
-      var audio = new Audio('sounds/tom-4.mp3');
-      audio.play();
-      break;
-      
-
-    default:
+   default:
       console.log(buttonInnerHTML);
   }
 }
