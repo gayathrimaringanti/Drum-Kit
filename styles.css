@@ -5,14 +5,14 @@ body {
 
 h1 {
   font-size: 5rem;
-  color: red;
+  color: lightblue;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
 
 }
 
 footer {
-  color: #800000;
+  color: white;
   font-family: sans-serif;
 }
 
@@ -64,7 +64,7 @@ footer {
 
 .drum {
   outline: none;
-  border: 10px solid red;
+  border: 10px solid black;
   font-size: 5rem;
   font-family: 'Arvo', cursive;
   line-height: 2;
@@ -77,5 +77,5 @@ footer {
   height: 150px;
   text-align: center;
   margin: 10px;
-  background-color: blue;
+  background-color: white;
 }
