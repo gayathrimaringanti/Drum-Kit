@@ -5,51 +5,47 @@ body {
 
 h1 {
   font-size: 5rem;
-  color: #DBEDF3;
+  color: lightred;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
 
 }
 
 footer {
-  color: #DBEDF3;
+  color: lightred;
   font-family: sans-serif;
 }
 
-.g {
+.M {
   background-image: url("images/tom1.png");
 }
 
-.a {
+.U {
   background-image: url("images/tom2.png");
 }
 
-.y {
+.S {
   background-image: url("images/tom3.png");
 }
 
-.a {
+.I {
   background-image: url("images/tom4.png");
 }
 
-.t {
+.C {
   background-image: url("images/snare.png");
 }
 
-.h {
+.O {
   background-image: url("images/crash.png");
 }
 
-.r {
+.N {
   background-image: url("images/kick.png");
 }
 
-.i {
-  background-image: url("images/crash.png");
-}
-
 .set {
-  margin: 10% auto;
+  margin: 20% auto;
 }
 
 .game-over {
