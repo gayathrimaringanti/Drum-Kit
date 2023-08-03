@@ -1,18 +1,18 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-color: yellow;
 }
 
 h1 {
   font-size: 5rem;
-  color: lightred;
+  color: red;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
 
 }
 
 footer {
-  color: lightred;
+  color: white;
   font-family: sans-serif;
 }
 
